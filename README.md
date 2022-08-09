@@ -60,7 +60,7 @@ Deploying is easy 🤫! You can deploy this bot in Heroku or in a linux VPS ♥�
 
 ### With Heroku
 
-<a href="https://www.heroku.com/deploy?template=https://github.com/Itz-fork/Unzipper-Bot/tree/arch">
+<a href="https://www.heroku.com/deploy?template=https://github.com/Shahidshekh/Unzipper-Bot/tree/arch">
   <img src="https://www.herokucdn.com/deploy/button.svg">
 </a>
 
